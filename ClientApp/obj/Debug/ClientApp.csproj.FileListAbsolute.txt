@@ -1,0 +1,24 @@
+c:\users\marinkomil\documents\visual studio 2015\Projects\TestServer\ClientApp\bin\Debug\ClientApp.exe.config
+c:\users\marinkomil\documents\visual studio 2015\Projects\TestServer\ClientApp\bin\Debug\ClientApp.exe
+c:\users\marinkomil\documents\visual studio 2015\Projects\TestServer\ClientApp\bin\Debug\ClientApp.pdb
+c:\users\marinkomil\documents\visual studio 2015\Projects\TestServer\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+c:\users\marinkomil\documents\visual studio 2015\Projects\TestServer\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.Cache
+c:\users\marinkomil\documents\visual studio 2015\Projects\TestServer\ClientApp\obj\Debug\ClientApp.exe
+c:\users\marinkomil\documents\visual studio 2015\Projects\TestServer\ClientApp\obj\Debug\ClientApp.pdb
+c:\users\marinkomil\documents\visual studio 2015\Projects\TestServer\ClientApp\obj\Debug\ClientApp.csprojResolveAssemblyReference.cache
+c:\users\marinkomil\documents\visual studio 2015\Projects\TestServer\ClientApp\bin\Debug\Domen.dll
+c:\users\marinkomil\documents\visual studio 2015\Projects\TestServer\ClientApp\bin\Debug\Domen.pdb
+c:\users\marinkomil\documents\visual studio 2015\Projects\TestServer\ClientApp\obj\Debug\ClientApp.BeginForm.resources
+c:\users\marinkomil\documents\visual studio 2015\Projects\TestServer\ClientApp\obj\Debug\ClientApp.ClientForm.resources
+C:\Users\Marinkovici\Desktop\TestServer\ClientApp\obj\Debug\ClientApp.csprojResolveAssemblyReference.cache
+C:\Users\Marinkovici\Desktop\TestServer\ClientApp\obj\Debug\ClientApp.ClientForm.resources
+C:\Users\Marinkovici\Desktop\TestServer\ClientApp\obj\Debug\ClientApp.BeginForm.resources
+C:\Users\Marinkovici\Desktop\TestServer\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\Marinkovici\Desktop\TestServer\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.Cache
+C:\Users\Marinkovici\Desktop\TestServer\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\Marinkovici\Desktop\TestServer\ClientApp\obj\Debug\ClientApp.pdb
+C:\Users\Marinkovici\Desktop\TestServer\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\Marinkovici\Desktop\TestServer\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\Marinkovici\Desktop\TestServer\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\Marinkovici\Desktop\TestServer\ClientApp\bin\Debug\Domen.dll
+C:\Users\Marinkovici\Desktop\TestServer\ClientApp\bin\Debug\Domen.pdb

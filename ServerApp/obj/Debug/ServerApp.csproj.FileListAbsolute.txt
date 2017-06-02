@@ -1,0 +1,33 @@
+c:\users\marinkomil\documents\visual studio 2015\Projects\TestServer\ServerApp\bin\Debug\ServerApp.exe.config
+c:\users\marinkomil\documents\visual studio 2015\Projects\TestServer\ServerApp\bin\Debug\ServerApp.exe
+c:\users\marinkomil\documents\visual studio 2015\Projects\TestServer\ServerApp\bin\Debug\ServerApp.pdb
+c:\users\marinkomil\documents\visual studio 2015\Projects\TestServer\ServerApp\obj\Debug\ServerApp.csprojResolveAssemblyReference.cache
+c:\users\marinkomil\documents\visual studio 2015\Projects\TestServer\ServerApp\obj\Debug\ServerApp.Properties.Resources.resources
+c:\users\marinkomil\documents\visual studio 2015\Projects\TestServer\ServerApp\obj\Debug\ServerApp.csproj.GenerateResource.Cache
+c:\users\marinkomil\documents\visual studio 2015\Projects\TestServer\ServerApp\obj\Debug\ServerApp.exe
+c:\users\marinkomil\documents\visual studio 2015\Projects\TestServer\ServerApp\obj\Debug\ServerApp.pdb
+c:\users\marinkomil\documents\visual studio 2015\Projects\TestServer\ServerApp\bin\Debug\Domen.dll
+c:\users\marinkomil\documents\visual studio 2015\Projects\TestServer\ServerApp\bin\Debug\Domen.pdb
+c:\users\marinkomil\documents\visual studio 2015\Projects\TestServer\ServerApp\obj\Debug\ServerApp.ServerForm.resources
+C:\Users\Marinkovici\Desktop\TestServer\ServerApp\bin\Debug\ServerApp.exe.config
+C:\Users\Marinkovici\Desktop\TestServer\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\Marinkovici\Desktop\TestServer\ServerApp\obj\Debug\ServerApp.pdb
+C:\Users\Marinkovici\Desktop\TestServer\ServerApp\bin\Debug\ServerApp.exe
+C:\Users\Marinkovici\Desktop\TestServer\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\Marinkovici\Desktop\TestServer\ServerApp\bin\Debug\Domen.dll
+C:\Users\Marinkovici\Desktop\TestServer\ServerApp\bin\Debug\Domen.pdb
+C:\Users\Marinkovici\Desktop\TestServer\ServerApp\obj\Debug\ServerApp.csprojResolveAssemblyReference.cache
+C:\Users\Marinkovici\Desktop\TestServer\ServerApp\obj\Debug\ServerApp.ServerForm.resources
+C:\Users\Marinkovici\Desktop\TestServer\ServerApp\obj\Debug\ServerApp.Properties.Resources.resources
+C:\Users\Marinkovici\Desktop\TestServer\ServerApp\obj\Debug\ServerApp.csproj.GenerateResource.Cache
+D:\Fax\Projektovanje softvera\vezba_2_kolok\test 2010\TestServer\ServerApp\bin\Debug\ServerApp.exe.config
+D:\Fax\Projektovanje softvera\vezba_2_kolok\test 2010\TestServer\ServerApp\bin\Debug\ServerApp.exe
+D:\Fax\Projektovanje softvera\vezba_2_kolok\test 2010\TestServer\ServerApp\bin\Debug\ServerApp.pdb
+D:\Fax\Projektovanje softvera\vezba_2_kolok\test 2010\TestServer\ServerApp\bin\Debug\Domen.dll
+D:\Fax\Projektovanje softvera\vezba_2_kolok\test 2010\TestServer\ServerApp\bin\Debug\Domen.pdb
+D:\Fax\Projektovanje softvera\vezba_2_kolok\test 2010\TestServer\ServerApp\obj\Debug\ServerApp.csprojResolveAssemblyReference.cache
+D:\Fax\Projektovanje softvera\vezba_2_kolok\test 2010\TestServer\ServerApp\obj\Debug\ServerApp.ServerForm.resources
+D:\Fax\Projektovanje softvera\vezba_2_kolok\test 2010\TestServer\ServerApp\obj\Debug\ServerApp.Properties.Resources.resources
+D:\Fax\Projektovanje softvera\vezba_2_kolok\test 2010\TestServer\ServerApp\obj\Debug\ServerApp.csproj.GenerateResource.Cache
+D:\Fax\Projektovanje softvera\vezba_2_kolok\test 2010\TestServer\ServerApp\obj\Debug\ServerApp.exe
+D:\Fax\Projektovanje softvera\vezba_2_kolok\test 2010\TestServer\ServerApp\obj\Debug\ServerApp.pdb

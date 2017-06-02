@@ -1,0 +1,13 @@
+c:\users\marinkomil\documents\visual studio 2015\Projects\TestServer\Domen\bin\Debug\Domen.dll
+c:\users\marinkomil\documents\visual studio 2015\Projects\TestServer\Domen\bin\Debug\Domen.pdb
+c:\users\marinkomil\documents\visual studio 2015\Projects\TestServer\Domen\obj\Debug\Domen.dll
+c:\users\marinkomil\documents\visual studio 2015\Projects\TestServer\Domen\obj\Debug\Domen.pdb
+C:\Users\Marinkovici\Desktop\TestServer\Domen\bin\Debug\Domen.dll
+C:\Users\Marinkovici\Desktop\TestServer\Domen\bin\Debug\Domen.pdb
+C:\Users\Marinkovici\Desktop\TestServer\Domen\obj\Debug\Domen.dll
+C:\Users\Marinkovici\Desktop\TestServer\Domen\obj\Debug\Domen.pdb
+D:\Fax\Projektovanje softvera\vezba_2_kolok\test 2010\TestServer\Domen\bin\Debug\Domen.dll
+D:\Fax\Projektovanje softvera\vezba_2_kolok\test 2010\TestServer\Domen\bin\Debug\Domen.pdb
+D:\Fax\Projektovanje softvera\vezba_2_kolok\test 2010\TestServer\Domen\obj\Debug\Domen.csprojResolveAssemblyReference.cache
+D:\Fax\Projektovanje softvera\vezba_2_kolok\test 2010\TestServer\Domen\obj\Debug\Domen.dll
+D:\Fax\Projektovanje softvera\vezba_2_kolok\test 2010\TestServer\Domen\obj\Debug\Domen.pdb
